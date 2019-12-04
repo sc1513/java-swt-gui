@@ -15,4 +15,4 @@ the file path with the file name to to the file extension. After the file is fou
 document and save each row to a object stored in an array. After that the array of objects is used to fill the table in the application
 using a linear algorithm. This application is mainly meant to be used as a checklist.
 
-![Alt text](https://https://photos.google.com/photo/AF1QipNYhyMz62yg-OwXnWmzDvaqruwt3KWEi2f1Ewk2"Application")
+![Alt text](/sc1513/java-swt-gui/commit/7fe58dd43f184bd945de296806e501cda524bf91.jpg?raw=true "Application")
