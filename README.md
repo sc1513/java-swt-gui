@@ -16,3 +16,5 @@ document and save each row to a object stored in an array. After that the array 
 using a linear algorithm. This application is mainly meant to be used as a checklist.
 
 ![Alt text](https://github.com/sc1513/java-swt-gui/blob/master/Item%20checkout%20application.png?raw=true)
+
+![Alt text](https://github.com/sc1513/java-swt-gui/blob/master/Item%20checkout%20application%20(2).png?raw=true)
